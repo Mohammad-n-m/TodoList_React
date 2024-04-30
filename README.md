@@ -1,7 +1,7 @@
 # TodoList_React
-##This website is built with *REACT* to list your activities
+## This website is built with *REACT* to list your activities
 
-##FEATURES
+## FEATURES
 1. Clean and extensible codes
 2. User could set status to her/his activity
 3. When the user refreshes the site, it does not clear the user's basket
